@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc=average%20aimbot&fontColor=ffffff&fontSize=1000)
+![header](https://capsule-render.vercel.app/api?type=waving&clor&desc=average%20aimbot&fontColor=ffffff&heignt=250)
