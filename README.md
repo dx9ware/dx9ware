@@ -3,4 +3,4 @@
 # CRINGE ESP
 > 대전도안고등학교
 
-[![Readme Card](https://github.com/Lifecream/2022-Ctrl-C-Activities)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx9ware&repo=github-readme-stats)](https://github.com/Lifecream/2022-Ctrl-C-Activities)
